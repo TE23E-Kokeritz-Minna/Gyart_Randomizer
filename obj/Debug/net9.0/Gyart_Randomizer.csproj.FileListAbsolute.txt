@@ -1,0 +1,14 @@
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\bin\Debug\net9.0\Gyart_Randomizer.exe
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\bin\Debug\net9.0\Gyart_Randomizer.deps.json
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\bin\Debug\net9.0\Gyart_Randomizer.runtimeconfig.json
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\bin\Debug\net9.0\Gyart_Randomizer.dll
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\bin\Debug\net9.0\Gyart_Randomizer.pdb
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\Gyart_Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\Gyart_Randomizer.AssemblyInfoInputs.cache
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\Gyart_Randomizer.AssemblyInfo.cs
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\Gyart_Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\Gyart_Randomizer.dll
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\refint\Gyart_Randomizer.dll
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\Gyart_Randomizer.pdb
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\Gyart_Randomizer.genruntimeconfig.cache
+C:\Users\minna.kokeritz\github-classroom\TE23E-PRRPRR01\prog2\Gyart_Randomizer\obj\Debug\net9.0\ref\Gyart_Randomizer.dll
